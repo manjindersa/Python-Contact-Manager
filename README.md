@@ -13,7 +13,7 @@ The Python Contact Manager is a simple command-line application that allows user
 ## Usage
 1. **Clone the Repository**: Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/yourusername/Python-Contact-Manager.git
+    git clone https://github.com/manjindersa/Python-Contact-Manager.git
     ```
 2. **Navigate to the Directory**: Change to the directory containing the `ContactManager.py` file.
     ```sh
